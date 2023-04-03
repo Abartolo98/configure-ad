@@ -21,8 +21,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
+- step 1. In Azure, Im going to create a resource group and in that resource group im going to create a virtual machine running windows server 2022.
+- Step 2. Once its Created, then im going to install active Directory domain services
 - Step 3
 - Step 4
 
