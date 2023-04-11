@@ -48,6 +48,6 @@ When active directory is installed, now im going to promote my Virtual machine a
 <img src="https://i.imgur.com/gcNBPiM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Once everything is setup, What i will do now is remote desktop in my other virtual machine "windows 10 pro" and will join the domain "windows server 2022" that i created. 
 </p>
 <br />
