@@ -40,12 +40,12 @@ Once i created my virtual machine " windows server 2022" i log into remote deskt
 <img src="https://i.imgur.com/wCDdY49.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+When active directory is installed, now im going to promote my Virtual machine as a Domain controller, So to do that i im going to setup a new Forest as my "Mydomain.com"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/psdGPmg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gcNBPiM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
